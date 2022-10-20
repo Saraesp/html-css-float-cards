@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color: #EE3A8C;
+    font-family: 'Fredoka One', cursive;
+    padding: 30px;
+}
